@@ -1,0 +1,101 @@
+body{
+    background-image: url(logo.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 20%;
+}
+
+.head {
+    text-align: center;
+    font-style: oblique;
+    color: black;
+}
+
+.container{
+    height: 13vh;
+    width: 88%;
+    padding: 0 8%;
+    background-color: rgb(85, 85, 79);
+    position: relative;
+    background-image: url(Mallige.png);
+    background-position:right;
+    background-repeat: no-repeat;
+}
+
+.We {
+    text-align: left;
+    font-size: x-large;
+    padding-top: 5vh;
+    
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: 0%;
+}
+
+nav li {
+    margin-right: 150px;
+    padding-top: 30px;
+    float: right;
+}
+
+nav a {
+    color: rgb(11, 11, 11);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.Our{
+    float: left;
+    height: 13vh;
+    width: 100%;
+    padding: 0 8%;
+    background-color: rgb(164, 164, 157);
+    position: relative;
+    font-size: x-large;
+}
+
+.Section1 {
+    position: absolute;
+    bottom:100%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+  
+.section {
+    width: 100vw;
+    height: 60vh;
+    font-size: 50px;
+    text-align: end;
+    margin: 10px 5px;
+}
+
+  
+.nav {
+    width: 100vw;
+    height: 40vh;
+    font-size: x-large;
+    text-align:left;
+    color: black;
+    text-decoration-color: black;
+    margin: 10px 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    place-items: center;
+}
+
+.chudi{
+    width:25%;
+    padding-top:20%;
+    padding-inline: 40;
+    margin-block: 10;
+    
+    
+}
